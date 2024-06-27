@@ -1,0 +1,120 @@
+[
+  {
+    "category": "Desserts",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Macaron",
+        "ingredients": [
+          {
+            "name": "macaronage",
+            "ingredients": [
+              {
+                "name": "almond flour",
+                "quantity": 300,
+                "measurement": "grams"
+              },
+              {
+                "name": "powdered sugar",
+                "quantity": 300,
+                "measurement": "grams"
+              },
+              { "name": "egg whites", "quantity": 110, "measurement": "grams" }
+            ]
+          },
+          {
+            "name": "meringue",
+            "ingredients": [
+              { "name": "egg whites", "quantity": 110, "measurement": "grams" },
+              { "name": "sugar", "quantity": 300, "measurement": "grams" },
+              { "name": "water", "quantity": 75, "measurement": "grams" }
+            ]
+          }
+        ],
+        "instructions": [
+          "Sift almond flour and powdered sugar together.",
+          "",
+          "Make a sugar syrup by boiling sugar and water to 118°C.",
+          "Pour sugar syrup into whipped egg whites and continue whipping until cool.",
+          "Fold almond flour and powdered sugar into meringue.",
+          "Pipe onto baking sheets and let rest for 30 minutes.",
+          "Bake at 310°f for 6 minutes."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Earl Gray Bouchon",
+        "ingredients": [
+          { "name": "melted butter", "quantity": 225, "measurement": "grams" },
+          { "name": "chocolate", "quantity": 200, "measurement": "grams" },
+          { "name": "brown sugar", "quantity": 400, "measurement": "grams" },
+          { "name": "eggs", "quantity": 3 },
+          {
+            "name": "All purpose flour",
+            "quantity": 210,
+            "measurement": "grams"
+          },
+          { "name": "earl gray tea", "quantity": 1, "measurement": "tbsp" },
+          { "name": "vanilla", "quantity": 2, "measurement": "tsp" },
+          { "name": "salt", "quantity": 1.5, "measurement": "tsp" }
+        ],
+        "instructions": [
+          "Cream eggs, sugar, butter and vanilla.",
+          "Fold in flour, tea and salt .",
+          "Bake at 325°f for 10 minutes."
+        ],
+        "notes": "Make sure to not fill the mould too much, as the bouchon will rise in the oven.",
+        "yield": "12 bouchons"
+      }
+    ]
+  },
+  {
+    "category": "Savory",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Tomatillo Salsa",
+        "ingredients": [
+          { "name": "tomatillos", "quantity": "8-10" },
+          { "name": "lime juice", "quantity": "1/4 cup" },
+          { "name": "garlic", "quantity": "2 cloves" },
+          { "name": "salt", "quantity": "to taste" },
+          { "name": "cilantro", "quantity": "1/2 bunch" }
+        ],
+        "instructions": ["Blend all ingredients together and serve."],
+        "notes": "This salsa is great with tortilla chips or fish tacos.",
+        "yield": "1 litre"
+      },
+      {
+        "id": 2,
+        "name": "Aioli",
+        "ingredients": [
+          { "name": "egg yolks", "quantity": "3" },
+          { "name": "garlic", "quantity": "1 clove" },
+          { "name": "neutral oil", "quantity": "1 litre" },
+          { "name": "dijon mustard", "quantity": "1-2 tbsp" },
+          { "name": "lemon juice", "quantity": "1-2 tsp" },
+          { "name": "water", "quantity": "1-2 tbsp" },
+          { "name": "salt", "quantity": "to taste" }
+        ],
+        "instructions": [
+          "In a food processor, blend egg yolks, mustard, and garlic.",
+          "Slowly drizzle in oil until mixture emulsifies.",
+          "Add lemon juice, water, and salt to taste."
+        ],
+        "notes": "This aioli is great with cornmeal fried eggplant or tomatillo salsa.",
+        "yield": "1 litre"
+      }
+    ]
+  },
+  {
+    "category": "Information",
+    "techniques": [
+      {
+        "name": "Chocolate Tempering",
+        "description": "Tempering chocolate stabilizes it for dipping or coating by melting, cooling, and reheating to specific temperatures. This ensures a glossy finish and crisp texture.",
+        "notes": "When tempering chocolate, avoid any contact with water as it causes the chocolate to seize."
+      }
+    ]
+  }
+]
