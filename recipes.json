@@ -48,7 +48,11 @@
           { "name": "chocolate", "quantity": 200, "measurement": "grams" },
           { "name": "brown sugar", "quantity": 400, "measurement": "grams" },
           { "name": "eggs", "quantity": 3 },
-          { "name": "All purpose flour","quantity": 210,"measurement": "grams"},
+          {
+            "name": "All purpose flour",
+            "quantity": 210,
+            "measurement": "grams"
+          },
           { "name": "earl gray tea", "quantity": 1, "measurement": "tbsp" },
           { "name": "vanilla", "quantity": 2, "measurement": "tsp" },
           { "name": "salt", "quantity": 1.5, "measurement": "tsp" }
