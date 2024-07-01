@@ -33,7 +33,6 @@
         ],
         "instructions": [
           "Sift almond flour and powdered sugar together.",
-          "",
           "Make a sugar syrup by boiling sugar and water to 118°C.",
           "Pour sugar syrup into whipped egg whites and continue whipping until cool.",
           "Fold almond flour and powdered sugar into meringue.",
@@ -49,11 +48,7 @@
           { "name": "chocolate", "quantity": 200, "measurement": "grams" },
           { "name": "brown sugar", "quantity": 400, "measurement": "grams" },
           { "name": "eggs", "quantity": 3 },
-          {
-            "name": "All purpose flour",
-            "quantity": 210,
-            "measurement": "grams"
-          },
+          { "name": "All purpose flour","quantity": 210,"measurement": "grams"},
           { "name": "earl gray tea", "quantity": 1, "measurement": "tbsp" },
           { "name": "vanilla", "quantity": 2, "measurement": "tsp" },
           { "name": "salt", "quantity": 1.5, "measurement": "tsp" }
@@ -65,6 +60,39 @@
         ],
         "notes": "Make sure to not fill the mould too much, as the bouchon will rise in the oven. Spray the mould with non-stick spray before filling.",
         "yield": "12 bouchons"
+      },
+      {
+        "id": 3,
+        "name": "Cafe Creme Anglaise",
+        "ingredients": [
+          { "name": "35% Cream", "quantity": 400, "measurement": "grams" },
+          { "name": "milk", "quantity": 400, "measurement": "grams" },
+          { "name": "sugar", "quantity": 70, "measurement": "grams" },
+          { "name": "egg yolks", "quantity": 140, "measurement": "grams" },
+          { "name": "coffee", "quantity": 200, "measurement": "grams" }
+        ],
+        "instructions": [
+          "Bring cream, milk and coffee to a simmer",
+          "Mix sugar and eggs in seperate bowl",
+          "Slowly temper egg mixture by adding the dairy",
+          "Bring the whole mixture to 80c"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Chocolate Mouse (Vegan)",
+        "ingredients": [
+          { "name": "coconut cream", "quantity": 1500, "measurement": "grams" },
+          { "name": "maple syrup", "quantity": 200, "measurement": "grams" },
+          { "name": "cocoa powder", "quantity": 150, "measurement": "grams" },
+          { "name": "icing sugar", "quantity": 80, "measurement": "grams" },
+          { "name": "salt", "quantity": 1, "measurement": "tsp" }
+        ],
+        "instructions": [
+          "Add all ingredients into a mixer.",
+          "Whisk together until smooth."
+        ],
+        "notes": "Coconut cream referes to the seperated coconut fat in canned coconut milk, this is critial for a smooth product preventing it from being to runny"
       }
     ]
   },
